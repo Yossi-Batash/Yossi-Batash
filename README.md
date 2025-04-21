@@ -23,6 +23,7 @@
   <img height="230" width="300" src="https://wakatime.com/share/@yossefbatash/ab117543-7617-47cb-ba6f-bde5aaf31c66.png"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Yossi-Batash&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
 </div>
+
 ---
 
 ### 💡 קצת עליי:
