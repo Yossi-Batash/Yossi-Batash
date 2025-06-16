@@ -28,10 +28,8 @@
 
 ### 💡 קצת עליי:
 
-- 🎯 שואף לפתח כלים חכמים ונוחים לשימוש
+- 🚨 מפתח ומנהל מערכות ב[רד אלרט - התרעות צבע אדום בזמן אמת](https://red-alert.xyz), הזמינה ב[**11 פלטפורמות שונות!**](https://red-alert.xyz/platforms) 
 - 💻 עובד בעיקר בפרויקטים שקשורים לאתרים ופיתוח שרתים
-- 👥 פתוח לשיתופי פעולה עם מפתחים נוספים
-
 ---
 
 📫 אפשר לפנות אליי דרך [Discord](https://discord.com/users/1160579148788543619)
